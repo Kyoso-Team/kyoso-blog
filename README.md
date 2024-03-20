@@ -1,1 +1,1 @@
-# kyoso-blog
+Repository of Kyoso's blog. WIP.
